@@ -9,7 +9,8 @@ Get the code:
 > git clone git@github.com:colorgap/fire2bowyer.git
 
 Get npm modules
-> cd fire2bowyer
+> cd fire2bowyer 
+
 > npm install
 
 Use angular-cli command for local development and testing
